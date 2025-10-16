@@ -1,0 +1,1 @@
+ ReadableStreamDefaultController.prototype.close = function close()=>{}
